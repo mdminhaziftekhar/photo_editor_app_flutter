@@ -1,16 +1,27 @@
 # photo_editor_pro
 
-A new Flutter project.
+# Features 
 
-## Getting Started
+- Pick Image
+- Add Text
+- Bold Text
+- Italic Text
+- Add New Line
+- Align Text Left, Right & Center
+- Change Colour
+- Increase Font Size
+- Decrease Font Size
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
+![ss1](https://user-images.githubusercontent.com/70488121/236291693-f5adbfb1-7e84-4f35-ac9e-b2b0e9ea333b.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![ss2](https://user-images.githubusercontent.com/70488121/236291501-bee28422-1790-4379-ac1f-ab64de85d053.jpg)
+
+
+![ss3](https://user-images.githubusercontent.com/70488121/236291769-3fc6bdc6-4693-48aa-8813-3c17c96a55f5.jpg)
+
+
+![ss4](https://user-images.githubusercontent.com/70488121/236291813-9d7651b0-d199-4a37-9670-de9d44d0ec90.jpg)
